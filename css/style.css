@@ -69,6 +69,54 @@ header a:hover{
 
 
 
+/*showcase */
+
+#showcase{
+    min-height: 400px;
+    background: url('../images/tree.jpg') no-repeat 0 7px; 
+    text-align: center;
+    color: #004d4d;
+}
+
+
+#showcase h1{
+    margin-top: 35px;
+    
+    font-size: 58px;
+    margin-bottom: 10px; 
+}
+
+
+#newsletter{
+    margin-top: 10px;
+    padding: 5px;
+    color: #008080;
+    background:  #262626;
+}
+#newsletter  p{
+    font-size: 20px;
+    color:  #e6e6e6;
+}
+
+/* Boxes */
+#boxes{
+    margin-top: 30px;
+    
+
+}
+.img-circle{
+    border-radius: 40%;
+}
+#boxes .box{
+    
+    float: left;
+    text-align: center;
+    width: 30%;
+    padding: 10px;
+}
+
+
+
 
 
 
